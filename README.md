@@ -1,4 +1,4 @@
-# AI_email_intake
+# AI email intake
 
 ## Overview
 This project implements an **end-to-end AI-powered email intake system** that processes real customer emails and automatically creates Salesforce Cases with AI-generated draft responses.
